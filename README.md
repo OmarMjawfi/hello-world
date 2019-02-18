@@ -1,6 +1,6 @@
 # hello-world
 
 
-Hi World, 
+Hello World, 
 
 Omar 
